@@ -6,12 +6,13 @@
 
 Меня зовут Евгений.
 Я технический писатель в АО «Расчетные решения» и студент курса по информационным системам в Московском Политехе. Изучаю C#, SQL, Docs as Code, Git и ещё несколько интересных технологий.
+
 Я на связи!
+<br />
+
 <a href="https://t.me/bogdanov_evg">
   <img align="left" alt="Abhishek's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
-
-<br />
 
 <a href="https://join.skype.com/invite/DUaDhLP3MuUa">
   <img align="left" alt="Skype" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/skype.svg" />
@@ -19,6 +20,8 @@
 
 
 <br />
+
+
   
 **Languages and Tools:**  
 
